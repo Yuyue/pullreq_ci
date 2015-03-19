@@ -1,7 +1,7 @@
 # pullreq_ci
 The dataset of our FSE2015 submission, which can be used to study the influence of CI adoption in GitHub. 
 
-##Data descriptions
+##Data description
 The data is presented in CSV format and can be directly imported in R.
 
 all_projects.csv: The summary of all the raw projects. 
